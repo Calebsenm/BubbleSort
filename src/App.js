@@ -97,7 +97,7 @@ function App() {
 
   var listOne = []
   // covert list of strings numbers 
-  if (list !== "") {
+  if (list != "") {
     var listNthree = list.split(",").map(function (num) {
       return parseInt(num)
     })
