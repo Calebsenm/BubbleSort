@@ -1,7 +1,6 @@
 
 
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 import './index.css';
 import Square1 from "./components/Suquare1";
 import Square2 from "./components/Square2.js"
@@ -98,7 +97,7 @@ function App() {
 
   var listOne = []
   // covert list of strings numbers 
-  if (list != "") {
+  if (list !== "") {
     var listNthree = list.split(",").map(function (num) {
       return parseInt(num)
     })
