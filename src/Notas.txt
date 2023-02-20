@@ -2,3 +2,6 @@
 concepts 
 getBoundingClientRect();
 
+
+para subirlo a github pages
+gh-pages -d build
