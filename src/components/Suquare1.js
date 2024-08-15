@@ -1,5 +1,4 @@
 
-
 function Square1(number){
     
     return (
@@ -10,5 +9,4 @@ function Square1(number){
 }
 
 export default Square1;
-
 

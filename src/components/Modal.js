@@ -1,8 +1,6 @@
 
 import {useState} from "react";
  
-
-
 // this is a function modal for the modal conponent
 function Modal( {setIsOpen , handleList}) {
   

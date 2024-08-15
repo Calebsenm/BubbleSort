@@ -1,5 +1,3 @@
-
-
 import React from 'react';
 import './index.css';
 import Square1 from "./components/Suquare1";

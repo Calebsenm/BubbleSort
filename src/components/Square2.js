@@ -29,7 +29,6 @@ function Square2( number ){
       style = {style}
       onClick = {mover}
     >
-
       <p>{number.value}</p>
     </div>
   )
